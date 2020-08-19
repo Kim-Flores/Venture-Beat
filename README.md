@@ -3,7 +3,7 @@
 Live Code: https://kimflores-venturebeat.netlify.app
 
 # How It's Made:
-### Tech used: 
+## Tech used: 
 My task was to replicate the Venture Beat homepage with **HTML** and **CSS**. I was given a screenshot as reference and implemented media queries for responsiveness. 
 
 ![Venture Beat Final](vbimg.png)
