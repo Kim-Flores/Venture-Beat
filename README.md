@@ -18,7 +18,7 @@ Building this site was more straightforward to the other sites however, it helpe
 # Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-BBC: https://github.com/Kim-Flores/
+BBC: https://github.com/Kim-Flores/BCC
 
 Yelp: https://github.com/Kim-Flores/Yelp
 
